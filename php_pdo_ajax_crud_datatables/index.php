@@ -1,3 +1,6 @@
+<?php
+			//demo
+?>
 <html>
 	<head>
 		<title>PHP PDO Ajax CRUD with Data Tables</title>
@@ -9,6 +12,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 		<link rel="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"/>
 		<link rel="https://cdn.datatables.net/responsive/2.3.0/js/responsive.semanticui.min.js"/>
+		<link rel="stylesheet" href="/style.css"/>
 		<style>
 			body
 			{
